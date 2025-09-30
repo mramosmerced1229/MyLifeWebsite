@@ -31,6 +31,6 @@ Life Story of Miggy
         <li>Watching movies, TV shows and anime</li>
       </ul>
  
-        <footer>&copy; Copyright 2025 Miguel Ramos-Merced</footer>
+<footer>&copy; Copyright 2025 Miguel Ramos-Merced</footer>
     </body>
 </html>
