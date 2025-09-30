@@ -5,7 +5,6 @@ Life Story of Miggy
 <html lang="en">
     <head>
         <meta description="Everything you ever wanted to know about Miggy.">
-        <title>The lifestory of Miggy</title>
     </head>
     <body>
         <header>
