@@ -22,7 +22,14 @@ Life Story of Miggy
                 <li>Currently <em>24</em> years old.</li>
                 <li>Puertorican and African American.</li>
             </ul>
-        </main>
+            </main>
+<h2>Miggy's hobbies include but not limited to:</h2>
+      <ul>
+        <li>Linedancing/Swingdancing</li><a href= "https://www.tiktok.com/@miguelramos3806/">Tiktok page</a></li>
+        <li>Softball/Baseball</li>
+        <li>Working out</li>
+        <li>Watching movies, TV shows and anime</li>
+      </ul>
         <footer>&copy; Copyright 2025 Miguel Ramos-Merced</footer>
     </body>
 </html>
