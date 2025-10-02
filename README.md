@@ -8,7 +8,7 @@ Life Story of Miggy
     </head>
     <body>
         <header>
-            <h1>Major aspects that define beloved Miggy and his life story.</h1>
+            <h1>"Major aspects that define beloved Miggy and his life story." </h1>
         </header>
         <main>
             <h2>Biography Summary</h2>
