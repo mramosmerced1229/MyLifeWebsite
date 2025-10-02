@@ -4,7 +4,7 @@ Life Story of Miggy
 <!-- Homepage for handleyskitty.com -->
 <html lang="en">
     <head>
-        <meta description="Everything you ever wanted to know about Miggy.">
+        <meta description="Everything you ever wanted to know about Miggy.>
     </head>
     <body>
         <header>
