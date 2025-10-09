@@ -30,7 +30,8 @@
       <ul>
         <li><strong>Linedancing/Swingdancing</strong></li>
           <p>
-              <a href= "https://www.tiktok.com/@miguelramos3806/">Tiktok page</a></p>
+              Follow the tiktok given to get a view of my dancing videos!!!<a href= "https://www.tiktok.com/@miguelramos3806/">Tiktok page</a>
+          </p>
           <img src= "accessories/IMG_8259.JPEG" width="40%" alt= "Miggy posing with two of his best buddies from the country bar.">
           <img src= "accessories/IMG_8380.JPEG" width="40%" alt="Miggy posing infront of camera with both arms extended out while in the middle of a partner dance.">
           <img src= "accessories/IMG_8684.JPEG" width="40%" alt="Miggy dipping his girlfriend with one arm during a partner dance.">
