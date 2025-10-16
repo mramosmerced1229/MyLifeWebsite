@@ -1,23 +1,22 @@
 <!DOCTYPE html>
-<!-- Homepage for https://mramosmerced1229.github.io/MyLifeWebsite/ -->
-
+<!-- https://mramosmerced1229.github.io/MyLifeWebsite/ -->
 <html lang="en">
     <head>
         <meta description="Everything you ever wanted to know about Miggy.">
-    <title>The lifestory of Miggy</title>
+        <title>The lifestory of Miggy</title>
+    <link rel="stylesheet" href="style.css">
     </head>
     <body>
-        <header>
-            
-<h1>"Welcome aboard the crazy life train of Miggy!! Here you'll get a sneak peek of what aspects define Miggy"</h1>
-        <img src= "accessories/IMG_3266.JPEG" width="31.5%" alt="Posing with head down, with left arm out,under the LED lit word inspire.">
-            <img src= "accessories/IMG_3270.JPEG" width="31.5%" alt="Posing under the LED lit word inspire, with hands together and looking forward at the camera.">
+        
+<header>
+            <h1>"Welcome aboard the crazy life train of Miggy!! Here you'll get a sneak peek of what aspects define Miggy"</h1>
+            <img src= "accessories/IMG_3266.JPEG" width="31.5%"  alt=" Posing with head down, with left arm out,under the LED lit word inspire." class="float-img">
+            <img src= "accessories/IMG_3270.JPEG" width="31.5%" alt=" Posing under the LED lit word inspire, with hands together and looking forward at the camera." class="float-img">
         </header>
         <main>
             <h2>Biography Summary</h2>
-
- <li>Miguel Ramos-Merced IV was born in Fortworth, Texas. He was put up for adoption at the young age of 1 and had been in the foster care system til the age of 2 where he later was adopted by Miguel Ramos (51) and Iris Ramos (49) at age 2. Whenever he turned 4, they later moved to Jacksonville, Fl. He is the oldest one of four siblings. Two sisters; Ailed (22) and Jazmine Ramos-Merced (17). One brother; Jorge Ramos-Merced(18). Miguel Ramos-Merced (Miggy) attended Baldwin Middle-Senior Highschool from 7th-12th grade and graduated 4th in his graduating class of 150. He did one year at Stetson University but then later opted out and joined the Navy. He did 3 years as an IT Radioman, 2 of those onboard the USS Ohio but later got out with a General Discharge. He is currently working and living in Rainer, Washington with his girlfriend in Gordons Garden Center.</li>
-            <h2>Ethnicity/Background</h2>
+            <li>Miguel Ramos-Merced IV was born in Fortworth, Texas. He was put up for adoption at the young age of 1 and had been in the foster care system til the age of 2 where he later was adopted by Miguel Ramos (51) and Iris Ramos (49) at age 2. Whenever he turned 4, they later moved to Jacksonville, Fl. He is the oldest one of four siblings. Two sisters; Ailed (22) and Jazmine Ramos-Merced (17). One brother; Jorge Ramos-Merced(18). Miguel Ramos-Merced (Miggy) attended Baldwin Middle-Senior Highschool from 7th-12th grade and graduated 4th in his graduating class of 150. He did one year at Stetson University but then later opted out and joined the Navy. He did 3 years as an IT Radioman, 2 of those onboard the USS Ohio but later got out with a General Discharge. He is currently working and living in Rainer, Washington with his girlfriend in Gordons Garden Center.</li>
+    <h2>Ethnicity/Background</h2>
             <ul>
                 <li>Born on December 29, 2000</li>
                 <li>Born in Fortworth, Texas. But later moved to Jacksonville, Fl.</li>
@@ -25,24 +24,34 @@
                 <li>Currently <em>24</em> years old.</li>
                 <li>Puertorican and African American.</li>
             </ul>
-            </main>
+        </main>
 <h2>Miggy's hobbies include but not limited to:</h2>
       <ul>
         <li><strong>Linedancing/Swingdancing</strong></li>
           <p>
-              Follow the tiktok given to get a view of my dancing videos!!!<a href= "https://www.tiktok.com/@miguelramos3806/">Tiktok page</a>
-          </p>
-          <img src= "accessories/IMG_8259.JPEG" width="40%" alt= "Miggy posing with two of his best buddies from the country bar.">
+              Follow the tiktok given to get a view of my dancing videos!!! <a href= "https://www.tiktok.com/@miguelramos3806/">Tiktok page</a></p>
+          <div class="image-group">
+          <img src= "accessories/IMG_8259.JPEG" width="32%" alt= "Miggy posing with two of his best buddies from the country bar.">
           <img src= "accessories/IMG_8380.JPEG" width="40%" alt="Miggy posing infront of camera with both arms extended out while in the middle of a partner dance.">
           <img src= "accessories/IMG_8684.JPEG" width="40%" alt="Miggy dipping his girlfriend with one arm during a partner dance.">
-          <img src= "accessories/IMG_8928.JPEG" width="40%" alt="Miggy dancing and has his arms extended out during a linedance.">
-        <li><strong>Baseball</strong></li>
+          <img src= "accessories/IMG_8928.JPEG" width="39.5%" alt="Miggy dancing and has his arms extended out during a linedance.">
+    </div>
+          <quote class ="quote">"Sometimes I like to remind people that the best medicine to introduce into anyone's world is an affectionate smile." - Miggy</quote>
+      
+<li><strong>Baseball</strong></li>
+          <p> Haven't played since highschool, but it will forever be a sport that I enjoy and love!! </p>
+          <div class="image-group">
           <img src= "accessories/IMG_6348.JPEG" width="40%" alt=" Miggy walking up to homeplate and preparing to get at-bat.">
-     <h2> Lets dig a little more into the hobbies Miggy finds interesting..</h2>   
-
-</ul>
- 
-<footer>
-    &copy; Copyright 2025 Miguel Ramos-Merced</footer>
+          <img src= "accessories/IMG_0814.JPEG" width="14.5%" alt="Miggy posing while sitting down,throwing up signs with his hands, along with sticking his tongue out.">
+    </div>
+          <div style="clear: both;">
+              
+</div>
+          <quote class="quote">"Any time you have an opportunity to make a difference in this world and you don't, then you are wasting your time on Earth." - Roberto Clemente</quote>
+          
+<h2> Lets dig a little more into the hobbies Miggy finds interesting..</h2>   
+      </ul>
+                <footer>
+            &copy; Copyright 2025 Miguel Ramos-Merced</footer>
     </body>
 </html>
