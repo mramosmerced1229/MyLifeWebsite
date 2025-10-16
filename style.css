@@ -33,4 +33,6 @@ p {
     width: 100%;
     margin: auto;
     }
-
+h2 + li {
+font-style:Italic;
+}
