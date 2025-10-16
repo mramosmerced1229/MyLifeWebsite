@@ -1,1 +1,36 @@
+body {
+ font-family: "Georgia", serif;
+ background-color: pink;
+margin: 2%
+
+}
+h1 {
+    text-align: center;
+    font-family: "Monospace", serif;
+    color: Black;
+    }
+    
+h2 {
+    text-align: center;
+    font: "Verdana", serif;
+    color: Red;
+}
+
+p {
+    text-align: left;
+    font-family: "Roman Numerals", serif;
+}
+.image-img {
+    float:left;
+    width:50%;
+    margin:1%;
+    display: inline-block;
+}
+.quote {
+    display: block;
+    font-style: italic;
+    text-align:center;
+    width: 100%;
+    margin: auto;
+    }
 
