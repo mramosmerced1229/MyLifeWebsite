@@ -1,30 +1,42 @@
 body {
- font-family: "Georgia", serif;
- background-color: pink;
-margin: 2%
+font-family: "Georgia", cursive, sans-serif;
+background: linear-gradient(45deg, yellow, lime, hotpink);
+color: black;
+margin: 20px;
+padding: 50px;
 
 }
 h1 {
     text-align: center;
-    font-family: "Monospace", serif;
-    color: Black;
+    font-family: "Monospace", fantasy sans-serif;
+    color: brown;
+    border: 10px inset grey;
+    margin-left:200px
+    padding: 60px;
     }
     
 h2 {
-    text-align: center;
-    font: "Verdana", serif;
-    color: Red;
+    text-align: right;
+    font-family: "Courier New", monospace sans-serif;
+    color: orange;
+    border: 10px dotted blue;
+    margin-left:100px
+    padding: 30px;
 }
 
 p {
     text-align: left;
     font-family: "Roman Numerals", serif;
+    margin:75px 30px 10px 150px;
+    border: 5px solid pink;
+    background-color: green;
 }
-.image-img {
+.float-img {
     float:left;
     width:50%;
-    margin:1%;
+    margin:1px;
     display: inline-block;
+    border: 15px dashed red
 }
 .quote {
     display: block;
@@ -34,5 +46,8 @@ p {
     margin: auto;
     }
 h2 + li {
-font-style:Italic;
+    font-style:Italic;
+    border: 5px solid pink;
 }
+
+    
