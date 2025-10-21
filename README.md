@@ -48,10 +48,12 @@
               
 </div>
           <quote class="quote">"Any time you have an opportunity to make a difference in this world and you don't, then you are wasting your time on Earth." - Roberto Clemente</quote>
-          
+    <li><strong>Church</strong></li>
+          <p> Without the Lord actively being present in my life, I do not know how I could have made it this far in life! Through all thick and thin, he stayed right by my side and always showered me with love and many learned knowledge from each life lesson he presented me with</p>
 <h2> Lets dig a little more into the hobbies Miggy finds interesting..</h2>   
       </ul>
                 <footer>
+    <p><a href="index2.html"> Check out page 2!</a></p>
             &copy; Copyright 2025 Miguel Ramos-Merced</footer>
     </body>
 </html>
