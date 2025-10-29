@@ -58,14 +58,14 @@ p {
     
 
 .scalable-img {
-    max-width:100% /* image won't go past its container*/
+    max-width:100%; /* image won't go past its container*/
     margin:2%;
     height: auto; /*keep correct proportions*/
     display: block; /*removes gap below image*/
     border: 3px solid red;
     object-fit: contain; /* assist with fitting the full image within box*/
 }
-    }
+    
 .quote {
     display: block;
     font-style: italic;
