@@ -1,5 +1,5 @@
 body {
-    font-family: "Ariel", cursive, sans-serif;
+    font-family: "Ariel", sans-serif;
     background: linear-gradient(45deg, yellow, lime, hotpink);
     color: black;
     margin: 0;
@@ -27,7 +27,7 @@ nav a {
 
 h1 {
     text-align: center;
-    font-family: "Georgia", sans-serif;
+    font-family: "Courier New", sans-serif;
     color: black;
     border: 10px dashed grey;
     margin: 10px auto;
@@ -76,7 +76,7 @@ p {
     background-color: white;
     }
 h2 + ul {
-    font-style:Italic;
+    font-style:"Ariel", sans-serif;
     padding: 0;
     margin: 0;
 }
