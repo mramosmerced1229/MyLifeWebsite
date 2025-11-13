@@ -73,7 +73,7 @@ p {
 @media (max-width: 768px)  { /*Stack on smaller screens*/
   .grid-layout {
       display: grid;
-      grid-template-columns: 1fr; /*makes one columns*/
+      grid-template-columns: 1fr 1fr; /*makes two columns*/
       grid-template-rows: auto; /*adjust rows height automatically*/
       gap: 10px; /*space between gaps*/
       padding: 20px;
