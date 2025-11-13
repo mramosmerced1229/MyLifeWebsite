@@ -6,34 +6,43 @@ body {
     padding: 0;
     }
 
-nav {
-    background-color:grey;
+.navbar ul {
+    display: flex;
+    justify-content: center; /* keeps links side by side*/
+    background-color:black;
     text-align: center;
-    padding: 10px 0;
+    padding: 10px;
+    margin: 10px;
+    position: sticky;
 }
-nav ul {
+.navbar a:hover {
+    color: Gold; /*adds gold background on hover*/
+    transform: scale(1,1); /*slightly enlarges the text*/
+}
+.navbar a {
+    color: white;
+    border: 2px inset white;
+    border-radius: 8px; /* rounded corners*/
+    border-color: gold;
+}
+.navbar ul {
     list-style-type: none;
     padding: 0;
     margin: 0;
 }
-nav li {
+.navbar li {
     display: inline-block;
     margin: 0 15px;
 }
-nav a {
-    color: white;
-    
-}
-
 
 h1 {
     text-align: center;
     font-family: "Courier New", sans-serif;
-    color: black;
-    background-color:tan;
+    background-color: tan;
     border: 5px dashed grey;
     margin: 10px auto;
     padding: 10px 0;
+    font-size: 24px
     }
     
 h2 {
@@ -48,37 +57,47 @@ h3 {
     text-align: center;
     font-family: "Courier New", monospace sans-serif;
     color: brown;
-    margin-left:100px
+    margin-center:100px;
     padding: 10px;
-}
+    border: 2px inset black;
+    border-radius: 8px; /* rounded corners*/
+}  
 p {
     text-align: left;
     font-family: "Roman Numerals", serif;
-    margin:10px auto;
-    padding:10px;
+    margin:5px auto;
+    padding: 8px;
     background-color: white;
-    display:inline-block;
-
+    display: inline-block;
 }
-    
-
+@media (max-width: 768px)  { /*Stack on smaller screens*/
+  .grid-layout {
+      display: grid;
+      grid-template-columns: 1fr; /*makes one columns*/
+      grid-template-rows: auto; /*adjust rows height automatically*/
+      gap: 10px; /*space between gaps*/
+      padding: 20px;
+      align-items: start;
+}
+    }
+      
 .scalable-img {
     max-width:100%; /* image won't go past its container*/
     margin:2%;
     height: auto; /*keep correct proportions*/
-    display: inline-block; /*removes gap below image and put them side by side*/
+    display: inline-block; /*removes gap below image*/
     border: 3px ridge black;
     object-fit: contain; /* assist with fitting the full image within box*/
 }
-    
+ .image-group {
+     display: block;
+}
 .quote {
     display: block;
     font-style: italic;
     text-align:center;
     width: 100%;
-    margin: auto;
-    border: 4px inset pink;
-    background-color: white;
+    margin: 20px auto;
     }
 h2 + ul {
     font-style:"Ariel", sans-serif;
@@ -87,4 +106,5 @@ h2 + ul {
 }
 footer {
     text-align: center;
+    
 }
