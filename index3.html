@@ -6,44 +6,81 @@
     <link rel="stylesheet" href="style.css">
  <style>
     body {
-        background-image: url('accessories/cowboybootsbackground.jpeg');
+        background-image: url('cowboybootsbackground.jpeg');
         background-repeat: no-repeat;
         background-size: cover;
         background-attachment: fixed;
         height: 100%;
 }
-     .container{
+    @media (max-width: 2068px)  { /*When screen is 2068 wide or less*/
+     .dance{
          gap: 10px;
-     .column {
+     .dance-card {
          flex: 1;
-         border: 8px ridge pink;
-         background-color: blue;
+         border: 8px ridge grey;
+         background-color: tan;
          paddling: 20px;
+         margin: 50px;
 }
-         h1 {
-             text-align: center;
-             color: darkred;
-             border: 10px double blue;
-             paddling:15px;
+         @media (max-width: 768px)  { /*When screen is 768 wide or less*/
+     .dance{
+         gap: 10px;
+     .dance-card {
+         flex: 1;
+         border: 8px ridge grey;
+         background-color: tan;
+         paddling: 20px;
+         margin: 50px;
+}
+    h1 {
+        text-align: center;
+        color: darkred;
+        border: 5px dashed blue;
+        paddling:15px;
+        margin-center:50px;
 }
     </style>
 </head>
 <body>
-     <nav>
+     <nav class="navbar">
             <ul>
                 <li><a href="index.html"> Home</a></li>
                 <li><a href="index2.html">Miggy's Hobbies</a></li>
-                <li><a href="index3.html">Page 3</a></li>
+                <li><a href="index3.html">Beginners Linedance</a></li>
                 <li><a href="https://www.bigwhiskysaloon.com/" target="_blank">My Favorite Country Bar's website</a></li>
             </ul>
         </nav>
-    <h1>Linedancing for Beginners</h1>
-    <p> Stay tuned for updates on where to begin in your linedancing era!!</p>
+<div class="dance">
+<div class ="dance-card">
+    <h1> Linedancing for Beginners</h1>
+    
+    <ul> Welcome to Linedancing for Beginners, here is where you'll embark on a journey to begin your linedancing era!! We will learn easy dances, listen to great music, and overall have fun!</ul>
+    
+    <h2>Below are common beginner linedances</h2>
+   
+<div class="dance">
+    <h3>Cupid Shuffle</h3>
+    <p> The steps are within the lyric, for example; "Slide to the left, Slide to the right..." So all you have to do is listen to which direction it tells you to follow. Easy peasy!!!</p>
+    
+<div class="dance">
+    <h3>Wagon Wheel</h3>
+    <p> This is a 2-wall beginners dance to Darius Rucker's cover of "Wagon Wheel".</p>
+    
+<div class= "dance">
+    <h3>Whiskey Drinkin</h3>
+    <p> A country classic - perfect for an upbeat bar dance type of night!</p>
+ 
+ 
+ 
+        
+        
     <footer>
         <p><a href ="index.html">Back to homepage</a>
     </p>
         <p><a href ="index2.html">Miggy's Hobbies</a>
     </p>
-            &copy; Copyright 2025 Miguel Ramos-Merced</footer>
-    </body>
+           <body>
+    
+        <footer> &copy; Copyright 2025 Miguel Ramos-Merced</footer>
+        </body>
 </html>
