@@ -110,7 +110,7 @@ a:hover {
 @media (max-width: 2068px)  { /*Stack on smaller screens*/
 iframe {
     margin: 0 auto;
-    display: inline-block;
+    display: center;
 }
 h2 + ul {
     font-style:"Ariel", sans-serif;
