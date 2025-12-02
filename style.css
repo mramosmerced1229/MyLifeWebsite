@@ -114,6 +114,13 @@ a:hover {
 .dance {
     text-align: center;
 }
+dance-card {
+         flex: 1;
+         border: 2px ridge grey;
+         background-color:rgba(255,255,255,0.3);
+         paddling: 20px;
+         margin: 50px;
+}
 h2 + ul {
     font-style:"Ariel", sans-serif;
     padding: 0;
