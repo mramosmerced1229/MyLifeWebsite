@@ -91,7 +91,7 @@ a:hover {
       
 .scalable-img {
     max-width:100%; /* image won't go past its container*/
-    gap:4%; /*Decreasing or increasing this number will impact the spacing of the images*/
+    margin:10px; /*Decreasing or increasing this number will impact the spacing of the images*/
     height: auto; /*keep correct proportions*/
     display: inline-block; /*removes gap below image*/
     border: 3px ridge black;
