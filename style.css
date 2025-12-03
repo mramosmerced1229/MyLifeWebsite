@@ -91,14 +91,16 @@ a:hover {
       
 .scalable-img {
     max-width:100%; /* image won't go past its container*/
-    margin:10px; /*Decreasing or increasing this number will impact the spacing of the images*/
+    margin:3%; /*Decreasing or increasing this number will impact the spacing of the images*/
     height: auto; /*keep correct proportions*/
     display: inline-block; /*removes gap below image*/
     border: 3px ridge black;
     object-fit: contain; /* assist with fitting the full image within box*/
 }
- .image-group {
-     display: block;
+ .image-section {
+     display: flex;
+     gap: 10px;
+     justify-content:center;
 }
 .quote {
     display: block;
